@@ -1,5 +1,5 @@
 #include <stdio.h>
 int main (void)
 {
-printf ("austria est imperare orbi universo\n");
+printf ("austriae est imperare orbi universo\n");
 }
